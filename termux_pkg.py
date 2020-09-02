@@ -109,15 +109,6 @@ print('\n_______________________________________________________\n')
 os.system('figlet DONE|lolcat')
 print('\n_______________________________________________________\n')
 
-#cowsay
-os.system('toilet --filter border  cowsay|lolcat')
-os.system('echo ***************installing***************|lolcat')
-print('\n_______________________________________________________\n')
-os.system('pkg install cowsay')
-print('\n_______________________________________________________\n')
-os.system('figlet DONE|lolcat')
-print('\n_______________________________________________________\n')
-
 
 #w3m
 os.system('toilet --filter border  w3m|lolcat')
@@ -143,27 +134,6 @@ os.system('toilet --filter border NANO|lolcat')
 os.system('echo ****************installing**************|lolcat')
 print('\n_______________________________________________________\n')
 os.system('pkg install nano')
-print('\n_______________________________________________________\n')
-os.system('figlet DONE|lolcat')
-print('\n_______________________________________________________\n')
-
-
-#hydra
-os.system('toilet --filter border HYDRA|lolcat')
-os.system('echo ****************installing**************|lolcat')
-print('\n_______________________________________________________\n')
-os.system('pkg install hydra -y')
-print('\n_______________________________________________________\n')
-os.system('figlet DONE|lolcat')
-print('\n_______________________________________________________\n')
-
-
-#nmap
-
-os.system('toilet --filter border NMAP|lolcat')
-os.system('echo ****************installing**************|lolcat')
-print('\n_______________________________________________________\n')
-os.system('pkg install nmap -y')
 print('\n_______________________________________________________\n')
 os.system('figlet DONE|lolcat')
 print('\n_______________________________________________________\n')
