@@ -109,6 +109,15 @@ print('\n_______________________________________________________\n')
 os.system('figlet DONE|lolcat')
 print('\n_______________________________________________________\n')
 
+#cowsay
+os.system('toilet --filter border  cowsay|lolcat')
+os.system('echo ***************installing***************|lolcat')
+print('\n_______________________________________________________\n')
+os.system('pkg install cowsay')
+print('\n_______________________________________________________\n')
+os.system('figlet DONE|lolcat')
+print('\n_______________________________________________________\n')
+
 
 #w3m
 os.system('toilet --filter border  w3m|lolcat')
