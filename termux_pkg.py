@@ -148,6 +148,29 @@ os.system('figlet DONE|lolcat')
 print('\n_______________________________________________________\n')
 
 
+#hydra
+os.system('toilet --filter border HYDRA|lolcat')
+os.system('echo ****************installing**************|lolcat')
+print('\n_______________________________________________________\n')
+os.system('pkg install hydra -y')
+print('\n_______________________________________________________\n')
+os.system('figlet DONE|lolcat')
+print('\n_______________________________________________________\n')
+
+
+#nmap
+
+os.system('toilet --filter border NMAP|lolcat')
+os.system('echo ****************installing**************|lolcat')
+print('\n_______________________________________________________\n')
+os.system('pkg install nmap -y')
+print('\n_______________________________________________________\n')
+os.system('figlet DONE|lolcat')
+print('\n_______________________________________________________\n')
+
+
+
+
 
 os.system('apt update && apt upgrade -y')
 os.system('toilet -f mono12 -t --filter border:gay ALL SET')
