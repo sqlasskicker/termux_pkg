@@ -2,7 +2,6 @@
 For beginners who recently downloaded termux app, this script will install some required and important packages to your termux app
 python,
 python2,
-git,
 w3m,
 ruby,
 gem,
@@ -16,4 +15,11 @@ colorama
 and more...
 
             Usage 👇👇
-python termux_pkg.py
+
+(1) pkg install git
+
+(2) git clone https://github.com/sqlasskicker/termux_pkg
+
+(3) cd termux_pkg
+
+(4) python termux_pkg.py
