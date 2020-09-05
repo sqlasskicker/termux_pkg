@@ -30,17 +30,6 @@ print('\n________________________________________________________\n')
 
 
 
-#git
-os.system('toilet --filter border  git|lolcat')
-os.system('echo ***************installing*********|lolcat')
-print('\n_______________________________________________________\n')
-os.system('pkg install git')
-print('\n_______________________________________________________\n')
-os.system('figlet DONE|lolcat')
-print('\n_______________________________________________________\n')
-
-
-
 #Python
 os.system('toilet --filter border  PYTH0N|lolcat')
 os.system('echo **************installing************|lolcat')
@@ -79,6 +68,16 @@ print('\n_______________________________________________________\n')
 os.system('figlet DONE|lolcat')
 print('\n_______________________________________________________\n')
 
+
+
+#telethon
+os.system('toilet --filter border  telethon|lolcat')
+os.system('echo ***************installing*********|lolcat')
+print('\n_______________________________________________________\n')
+os.system('pip install telethon')
+print('\n_______________________________________________________\n')
+os.system('figlet DONE|lolcat')
+print('\n_______________________________________________________\n')
 
 
 #php
