@@ -19,7 +19,8 @@ colorama
 
 * pkg install git
 
-* git clone
+* git clone https://github.com/sqlasskicker/termux_pkg
+
 
 * cd termux_pkg
 
