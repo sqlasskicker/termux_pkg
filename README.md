@@ -12,16 +12,15 @@ nano,
 cmatrix,
 toilet,
 figlet,
-curl,
 colorama
 
 
-               Usage 👇👇
+# USAGE
 
- (1) pkg install git
+* pkg install git
 
- (2) git clone https://github.com/sqlasskicker/termux_pkg
+* git clone
 
- (3) cd termux_pkg
+* cd termux_pkg
 
- (4) python termux_pkg.py
+* bash termux_pkg.sh
